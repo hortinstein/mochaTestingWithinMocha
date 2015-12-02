@@ -1,0 +1,26 @@
+{
+  "name": "mochaTestingWithinMocha",
+  "version": "1.0.0",
+  "description": "example for a SO question",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hortinstein/mochaTestingWithinMocha.git"
+  },
+  "keywords": [
+    "mocha"
+  ],
+  "author": "hortinstein",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hortinstein/mochaTestingWithinMocha/issues"
+  },
+  "homepage": "https://github.com/hortinstein/mochaTestingWithinMocha",
+  "dependencies": {
+    "mocha": "^2.3.4",
+    "should": "^7.1.1"
+  }
+}
