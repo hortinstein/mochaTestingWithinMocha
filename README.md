@@ -102,6 +102,9 @@ startTests();
 ```
 
 Unfortunately this has not worked and produces the following result, showing that the line 92: ( ```test_dict['1'] = failing``` ) of ```test.js``` that attempts to change the function dictionary for the next iterations of tests does not work.  
+```
+$ npm test
+```
 
 ![Imgur](http://i.imgur.com/MAeZWzs.png)
 
