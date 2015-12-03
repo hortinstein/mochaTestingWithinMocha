@@ -1,5 +1,5 @@
 # How can I passing functions to test in a programatic invocation of Mocha.run()
-
+[![Build Status](https://travis-ci.org/hortinstein/mochaTestingWithinMocha.svg?branch=master)](https://travis-ci.org/hortinstein/mochaTestingWithinMocha)
 I am writing a very specific wrapper around Mocha that enables a very specific API where you supply functions mapped to specific names of required tests.  
 
 I am having the following issue getting the Mocha tests to recognize my function changes in my test files, which use mocha to test my mocha wrapper.
